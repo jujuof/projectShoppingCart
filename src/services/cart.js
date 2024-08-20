@@ -15,6 +15,7 @@ async function deleteItem(userCart, nameItem) {
     }
 }
 
+// ✅>>remover um item do carrinho
 async function removeItem(userCart, item) { 
 //transformando o valor do usuário no valor real do backend
 //    const deleteItem = index - 1
